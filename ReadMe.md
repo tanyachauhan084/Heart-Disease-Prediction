@@ -47,6 +47,7 @@ Heart disease is a major cause of mortality worldwide. Detecting it early can le
 
 ---
 
+
 ## 📊 Model Performance
 
 The model was evaluated using **Accuracy** and **F1 Score** on both the training and testing datasets.
@@ -59,7 +60,6 @@ The model was evaluated using **Accuracy** and **F1 Score** on both the training
 - ✅ **Accuracy**: Measures the percentage of correctly predicted instances.
 - 🎯 **F1 Score**: Harmonic mean of precision and recall, useful for handling class imbalance.
 
----
 
 ## 🚀 How to Run
 
